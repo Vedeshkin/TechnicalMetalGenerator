@@ -16,15 +16,15 @@ public class Application extends JFrame {
     public Application () {
         super("TechnicalMetalGenerator");
         setContentPane(mainPanel);
+        final MusicGenerator gen = new MusicGenerator();
         pack();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         generateButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                JOptionPane.showMessageDialog(Application.this, "Ooops",
+                tempOut.setText(String.valueOf(gen.getTempo()));
+                NoteOut.setText(gen.getNote());
 
-             "Under Development =(", JOptionPane.INFORMATION_MESSAGE);
-                tempOut.setText(String.valueOf((int)(Math.random()*100)));
             }
         });
 
