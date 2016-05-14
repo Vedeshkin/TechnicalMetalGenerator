@@ -24,6 +24,7 @@ public class Application extends JFrame {
             public void actionPerformed(ActionEvent e) {
                 tempOut.setText(String.valueOf(gen.getTempo()));
                 NoteOut.setText(gen.getNote());
+                TimeSignatureOut.setText(gen.getTimeSignature());
 
             }
         });

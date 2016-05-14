@@ -6,8 +6,10 @@ import java.util.Random;
 public class MusicGenerator {
     private int tempo;
     private String note;
+    private String TimeSignature;
     private Random random = new Random();
     private String [] notes =  {"C","C#", "D","D#", "E", "F" ,"F#", "G","G#", "A", "A#", "B"};
+    private int [] denominator = {2,4,8,16,32,64};
 
     MusicGenerator() {
         this.tempo = 0;
@@ -15,7 +17,7 @@ public class MusicGenerator {
 
     private static int randInt(int min, int max,Random rand) {
 
-        int randomNum = rand.nextInt((max - min) + 1) + min;
+        int randomNum = rand.nextInt((max - min)+1) + min;
 
         return randomNum;
     }
@@ -24,8 +26,12 @@ public class MusicGenerator {
         return tempo;
     }
     public String getNote(){
-        note = notes[randInt(0,notes.length,this.random)];
+        note = notes[randInt(0,notes.length-1,this.random)];
         return note;
 
+    }
+    public String getTimeSignature(){
+        TimeSignature = randInt(1,32,this.random)+"/"+denominator[randInt(0,denominator.length-1,random)];
+        return TimeSignature;
     }
 }
