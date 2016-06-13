@@ -12,6 +12,8 @@ public class Application extends JFrame {
     private JTextArea NoteOut;
     private JTextArea ScaleOut;
     private JTextArea TimeSignatureOut;
+    private JLabel History;
+    private JComboBox history;
 
     public Application () {
         super("TechnicalMetalGenerator");
@@ -26,6 +28,9 @@ public class Application extends JFrame {
                 NoteOut.setText(gen.getNote());
                 TimeSignatureOut.setText(gen.getTimeSignature());
                 ScaleOut.setText(gen.getScale());
+                history.addItem(gen);
+
+
 
             }
         });
