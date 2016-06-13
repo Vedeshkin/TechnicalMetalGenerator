@@ -1,0 +1,461 @@
+﻿Major
+Natural Minor
+Ionian (1st mode of major)
+Dorian (2nd mode of major)
+Phrygian (3rd mode of major)
+Lydian (4th mode of major)
+Mixolydian (5th mode of major)
+Aeolian (6th mode of major)
+Locrian (7th mode of major)
+Harmonic Minor (1st mode of harmonic minor)
+Melodic Minor (1st mode of melodic minor)
+Altered Dominant (7th mode of melodic minor)
+Super Locrian (7th mode of melodic minor)
+Diminished whole-tone (7th of melodic minor)
+Altered Scale (7th mode of melodic minor)
+Blues Minor Hexatonic
+Blues Pentatonic
+Blues (add M7)
+Major Pentatonic (1st mode of major pentatonic)
+Suspended Pentatonic (2nd mode of pentatonic major)
+Dorian Pentatonic (2nd mode of major pentatonic)
+Phrygian Pentatonic (3rd mode of major pentatonic)
+Mixolydian Pentatonic (4th mode of major pentatonic)
+Aeolian Pentatonic (5th mode of major pentatonic)
+Minor Pentatonic (5th mode of major pentatonic)
+Major Bebop
+Minor Bebop
+Dominant Bebop
+Dorian Bebop
+Whole-tone
+Whole-half Tone Scale
+Half-whole Tone Scale
+Diminished
+Dominant Diminished
+Symmetrical Diminished
+Spanish Mode
+Chromatic
+Chromatic (harmonic)
+Acoustic Scale
+Bartok
+Malarani
+Double Harmonic Major (5th mode harmonic minor)
+Blues Octatonic (with М3)
+Mohanangi
+Kalavati
+Bluesy
+Niaventi
+Gopikatilaka
+Priyadharshini
+Kamalamanohari (with m7)
+Messiaen Mode 2 Inverse (4 groups of 3 notes each)
+Dipak
+Altered Mixolydian M7 (add m6)
+Ghantana
+Jyoti
+Camara
+Minor Third
+Phrygian b4 (3rd mode of harmonic major)
+Jalarnava
+Nine-note Scale
+Prometheus Neapolitan
+Chromatic Phrygian Inverse
+Vijayanagari
+Putrika
+Mantra of Will Scale
+Blues Nonatonic (with M7)
+Vutari
+Tcherepnin Minor Pentatonic Mode III
+Bacovia (Romania)
+Salagavarali
+Nattaikurinji
+Perfect Fifth
+Chromatic Hypodorian
+Hindu scale (5th mode of melodic minor)
+Nigamagamini
+Mixolydian Hexatonic (suspended)
+Hamsalata
+Rasamanjari
+Shubravarni
+Hansadhvani
+Sarasanana
+Pentatonic Minor (major 6)
+Lydian Dominant (4th mode of melodic minor)
+Chaio (pentatonic)
+Chromatic Hypolydian
+Messiaen Truncated Mode 5
+Pentatonic Major #2 b7
+Messiaen Truncated Mode 6
+Neapolitan m6
+Bahar
+Pratapa
+Pelog
+Chromatic Dorian
+Kalagada
+Hejjajji
+Tcherepnin Major Pentatonic ModeD
+Marva
+Tcherepnin Major Pentatonic Mode ID
+Latika
+Tunisian
+Vijayava santa
+Blues Minor Heptatonic (add М2)
+Messiaen Mode 6 Inverse (2 groups of 5 notes each)
+Tcherepnin Major Pentatonic Mode IV
+Kashyapi
+Japanese Mode
+Han-Iwato
+Pentatonic whole tone
+Naganandini
+Sanjh ka Hindol
+Hamsa Vinodini
+Bhanumati
+Bhavani (heptatonic)
+Genus Secundum
+Suddha Simantini
+Gowleeswari
+Guhamanohari
+Chromatic Hypolydian Inverse
+Augmented
+Jhankara Bhramavi
+Takka
+Viravasantham
+Pentatonic Minor 7 b5
+Moorish Phrygian
+Van der Horst Octatonic
+Suddha Bangala
+Jog
+Diminished Fifth
+Jaganmohanam
+Kumud
+Harmonic Major (1st mode harmonic major)
+Amarasenapriya
+Ritsu
+Sindhura Kafi
+Kalakanthi (hexatonic)
+Chromatic Hypophrygian Inverse
+Minor Sixth
+Minor Second
+Messiaen Mode 5 (2 groups of 5 notes each)
+Bhusavati
+Youlan
+None
+Sengah
+Citrambari
+Han-kumoi
+Kumarapriya
+Tcherepnin Nine-note Scale
+Nishadi
+Major Third
+Inverted Augmented
+Chaya Todi
+Kalahamsa
+Peruvian Tritonic Мб
+Hamsanada
+Malayamarutam
+Mecakalyani
+Phrygian Dominant (5th mode of harmonic minor)
+Three Semitone Scale
+Prometheus
+Dorian b2 (2nd mode of melodic minor)
+Chromatic Hypodorian Inverse
+Byzantine Scale
+Blues Octatonic
+Algerian
+Makam Hijaz
+Tilang
+Warao Tritonic
+Chaya Vati
+Dhavalashri
+Gaula
+Vivardhini
+Major Locrian
+Vilasini
+Trishuli
+Tanukirti
+Takemitsu Tree Line Mode (m7)
+Modes of Major Pentatonic Mixed
+Ionian and Aeolian Mixed
+Banshikicho
+Chandrajyoti
+Eskimo Hexatonic
+Devarashtra
+Rudra Pancama
+Peiraiotikos
+Tivravahini
+Bhankar
+Maqam Shaddaraban
+Suddha Mukhari
+Ramamanohari
+Akebono (suspended)
+Messiaen Mode 1 (6 groups of 2 notes each)
+Paraju
+Messiaen Truncated Mode 5 Inverse
+Major Gipsy
+Takemitsu Tree Line Mode (M7)
+Manaranjani (major)
+Neelangi
+AudavTukhari
+Shri Kalyan
+Khamas
+Pyramid Hexatonic
+Locrian bb7
+Visvambhari
+Utility Minor
+Chromatic Phrygian
+Minor Gipsy
+Enigmatic Scale
+Dorian #4 (4th mode of harmonic minor)
+Saugandhini
+Gauri
+Minor Hexatonic
+Oriental (2nd mode of double harmonic minor)
+Phenadyuti
+Ravikriya
+Phrygian and Aeolian Mixed
+Harmonic and Neapolitan Minor Mixed
+Locrian nat.6 (2nd mode of harmonic minor)
+Pentatonic Minor added 6
+Malini
+Arabic (5th mode harmonic minor)
+Double Harmonic Minor
+Zilaf
+Dimnished Seventh
+Madhukauns (pentatonic)
+Trimurti
+Messiaen Mode 2 (4 groups of 3 notes each)
+Rasavali
+Chromatic and permuted Diatonic Dorian Mixed
+Gandharavam
+Malahari
+Lydian #2 (6th mode of harmonic minor)
+Rupavati
+Manoranjani
+Deshgaur
+Kshanika
+Tcherepnin Minor Pentatonic Mode IV
+Verdis Enigmatic
+Navamanohari
+Keseri
+Ranjani
+Lydian Hexatonic
+Half-diminished Bebop
+Cudamani
+Genus Primum
+Bauli
+Insen
+Chromatic Mixolydian
+Chromatic Lydian
+Mamata
+Saravati
+Yosen
+Manavi
+Nabhomani (heptatonic)
+Lydian Augmented #2 (6th mode of harmonic major)
+Gangatarangini
+Prokofiev
+Bhinna Pancama
+Tcherepnin Minor Pentatonic Mode П
+Messiaen Mode3 (3 groups of 4 notes each)
+Phrygian and Neapolitan Minor Mixed
+Chromatic Lydian Inverse
+Honchoshi Plagal Form
+Minor Seventh
+Santanamanjari
+Syamalam
+Padi
+Pahadi
+Petrushka Chord
+Ionian and Lydian Mixed
+Sumukam
+Pentatonic Major b2
+Pentatonic Major b5
+Lavangi
+Pentatonic Major b6
+Kiourdi
+Messiaen mode 7 (2 groups of 5 notes each)
+Girvani
+Hamsadhvani
+Aeolian Major (5th mode of melodic minor)
+Rasranjani
+Hamsagiri
+Octave
+Sorati
+Harmonic Major (3rd mode harmonic minor)
+Rajeshwari
+Rageshri
+Full Minor
+Puruhutika
+Tcherepnin Minor Pentatonic Mode I
+Ratnakanthi
+Nasamani
+Neapolitan Мб
+Jeths
+Tcherepnin Minor Pentatonic Mode V
+Major Second
+Salaga
+Madhukauns (hexatonic)
+Kusumakaram
+Kung (pentatonic)
+Hungarian Minor
+Ionian #5
+Messiaen Mode 7 Inverse (2 groups of 5 notes each)
+Ongkari
+Chad Gadyo
+Messiaen Mode 4 (2 groups of 5 notes each)
+Mandari
+Dorian b9 (2nd mode of melodic minor)
+Mixolydian b6 (5th mode of melodic minor)
+Chromatic and Diatonic Dorian Mixed
+Nisada
+Nabhomani (pentatonic)
+Kuntalavarali
+Magen Abot
+Major Sixth
+Ryukyu
+Varali
+Ancient Chinese
+Varini
+Lydian Dominant Augmented
+Jeyasuddhamalavi
+Varamu
+Neveseri
+Megharanji
+Vamsavathi
+Chin
+Matha Kokila
+Hawaiian (hexatonic)
+Gurjari Todi
+Pentatonic Major b2 b5
+Maqam Nahawand
+Pentatonic Major b2 b6
+Dorian b2 b5 (2nd mode of harmonic minor)
+Ratipriya
+Saurashtra
+Chinthamani
+Kuntala
+Messiaen Mode 6 (2 groups of 5 notes each)
+Phrygian (3rd mode of major)
+Budhamanohari
+Altered Pentatonic
+Sohini
+Chitthakarshini
+Blues Major Hexatonic
+Altered Mixolydian
+Ionian and Dorian Mixed
+Ionian and Mixolydian Mixed
+Chaturangini
+Kokil Pancham
+Double-Phrygian Hexatonic
+Genus Tertium
+Akebono
+Mand
+Pentatonic Minor m2 dim5 Мб
+Sriranjani
+Hijaz
+Khamaji Durga
+Five-note Prometheus
+Melodic Minor #11
+Chromatic Mixolydian Inverse
+Tcherepnin Major Pentatonic Model
+Ramkali
+Balinese Pelog
+Ahava Rabba
+Sarasvati
+Jivantika
+Tcherepnin Major Pentatonic Mode V
+Nohkan
+Locrian nat. 2 (6th mode of melodic minor)
+Symmetrical Decatonic
+Shostakovich
+Valaji
+Sauviram
+Verdis Scala Enigmatica
+Diminished b9 (7th mode of harmonic major)
+Mruganandana
+Blues Nonatonic (with М2)
+Perfect Fourth
+Sabach
+Nata
+Viyogavarali
+Ganasamavarali
+Bhatiyar
+Minor Pentatonic with Ascending Chrom. Approach
+Whole-tone add M7
+Romanian Major
+Lydian Augmented (3rd mode of melodic minor)
+Jivantini
+Augmented Fourth
+Madhuri
+Hungarian Major
+Phrygian and Locrian Mixed
+Lydian and Mixolydian Mixed
+Sansagari
+Ambika
+Dorian and Aeolian Mixed
+Messiaen Truncated Mode 6 Inverse
+Sindhi-Bhairavi
+Kumbhini
+Vijayasri
+Houzam
+Locrian nat.2 b7
+Syrian Pentatonic
+Half-diminished (6th mode of melodic minor)
+Augmented Fifth
+Devaranjani
+Ethiopian
+Abhogi
+Mixolydian b2 (5th mode of harmonic major)
+Samanta
+Altered Diminished (7th mode of harmonic minor)
+Major Diatonic Hexachord
+Chandrakauns
+Ichikotsucho
+Adonai Malakh
+Gypsy Heptatonic
+Dorian b5 (2nd mode of harmonic major)
+Zirafkend
+Kumudki
+Major Seventh
+Mixolydian and Dorian mixed
+Spanish Phrygian (add М3)
+Ute Tritonic
+Phrygian nat. 6 (2nd mode of melodic minor)
+Neroshta
+Jotismatti
+Brindabani Sarang
+Phrygian Hexatonic
+Diminished Fourth
+Multani (pentatonic)
+Melodic Major
+Blues Heptatonic
+Messiaen Mode 4 Inverse (2 groups of 5 notes each)
+Ionian Augmented (3rd mode of harmonic minor)
+Lalit Bhairav
+Aeolian Harmonic (6th mode of harmonic minor)
+BhairubaharThaat
+Locrian Diminished (7th mode of harmonic minor)
+maj triad
+min triad
+dim triad
+aug triad
+sus2 triad
+sus4 triad
+maj6 triad
+min6 triad
+Four semitone triad
+min7 tetrachord
+maj7 tetrachord
+7 tetrachord
+m75b tetrachord
+75b tetrachord
+75# tetrachord
+min7maj tetrachord
+69 tetrachord
+m69 tetrachord
+7sus2 tetrachord
+7sus4 tetrachord
+1-2-3-5 tetrachord
+l-2-3m-7 tetrachord
+Bhavani tetrachord
+Haripriya tetrachord
