@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
@@ -32,18 +33,19 @@ public class Application extends JFrame {
         }catch (IOException ex){}
         logger = Logger.getLogger(Application.class.getName());
         logger.addHandler(fh);
-        final MusicGenerator gen = new MusicGenerator();
         pack();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         logger.info("Application has been  started");
         generateButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                MusicGenerator gen = new MusicGenerator();
+                history.addItem(gen);
                 tempOut.setText(String.valueOf(gen.getTempo()));
                 NoteOut.setText(gen.getNote());
                 TimeSignatureOut.setText(gen.getTimeSignature());
                 ScaleOut.setText(gen.getScale());
-                history.addItem(gen);
+
                 logger.info(gen.toString());
 
 

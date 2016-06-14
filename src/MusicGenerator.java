@@ -21,16 +21,24 @@ public class MusicGenerator {
         this.tempo = 0;
         try
         {
-
             scales = (ArrayList<String>) Files.readAllLines(Paths.get("Scales.txt"));
         }catch (IOException ex){
 
         }
+        generate();
+
+    }
+    private void generate()
+    {
+        scale = scales.get(randInt(0,scales.size() -1,random));
+        tempo = randInt(50,255,this.random);
+        TimeSignature = randInt(1,32,this.random)+"/"+denominator[randInt(0,denominator.length-1,random)];
+        note = notes[randInt(0,notes.length-1,this.random)];
     }
 
     public String getScale()
     {
-        scale = scales.get(randInt(0,scales.size() -1,random));
+
         return scale;
     }
 
@@ -41,16 +49,15 @@ public class MusicGenerator {
         return randomNum;
     }
     public int getTempo (){
-        tempo = randInt(50,255,this.random);
         return tempo;
     }
     public String getNote(){
-        note = notes[randInt(0,notes.length-1,this.random)];
+
         return note;
 
     }
     public String getTimeSignature(){
-        TimeSignature = randInt(1,32,this.random)+"/"+denominator[randInt(0,denominator.length-1,random)];
+
         return TimeSignature;
     }
     @Override
