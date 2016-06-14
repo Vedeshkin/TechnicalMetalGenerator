@@ -7,16 +7,16 @@ import java.util.logging.Logger;
 public class TimeSignature {
     private int numerator;
     private int denumerator;
-    private String TimeSignature;
+    private String timeSignature;
     private static Random rand;//should be one for all object?
     private static Logger tsLogger;
-    public TimeSignature()//generate new TimeSignature object
+    public TimeSignature()//generate new timeSignature object
     {
         rand = new Random();
         tsLogger = Logger.getLogger(TimeSignature.class.getName());
 
     }
-    public TimeSignature(int numerator, int denumerator)//Construct TimeSignature object with given parameters.
+    public TimeSignature(int numerator, int denumerator)//Construct timeSignature object with given parameters.
     {
         tsLogger = Logger.getLogger(TimeSignature.class.getName());
         if(numerator == 0)
@@ -34,12 +34,12 @@ public class TimeSignature {
 
         this.numerator = numerator;
         this.denumerator = denumerator;
-        this.TimeSignature = numerator +"\\" + denumerator;
-        tsLogger.info(String.format("New TimeSignature is constructed : %s ", TimeSignature));
+        this.timeSignature = numerator +"\\" + denumerator;
+        tsLogger.info(String.format("New timeSignature is constructed : %s ", timeSignature));
     }
     @Override
     public String toString()
     {
-        return TimeSignature;
+        return timeSignature;
     }
 }
