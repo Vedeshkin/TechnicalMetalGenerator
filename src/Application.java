@@ -43,7 +43,7 @@ public class Application extends JFrame {
                 history.addItem(gen);
                 tempOut.setText(String.valueOf(gen.getTempo()));
                 NoteOut.setText(gen.getNote());
-                TimeSignatureOut.setText(gen.getTimeSignature());
+                TimeSignatureOut.setText(gen.getTimeSignature().toString());
                 ScaleOut.setText(gen.getScale());
 
                 logger.info(gen.toString());
@@ -58,5 +58,6 @@ public class Application extends JFrame {
     public static void main(String[] args){
         Application myApplication = new Application();
     }
+    public FileHandler getFileHanlder() {return fh;}
 }
 

@@ -10,6 +10,7 @@ public class TimeSignature {
     private String timeSignature;
     private static Random rand;//should be one for all object?
     private static Logger tsLogger;
+    private static int[] denominators = {2,4,8,16,32};
     public TimeSignature()//generate new timeSignature object
     {
         rand = new Random();
@@ -27,15 +28,21 @@ public class TimeSignature {
         {
             throw new IllegalArgumentException("Denumerator cannot be zero");
         }
-        if (numerator >= denumerator)
-        {
-            throw new IllegalArgumentException(String.format("Numerator %d is greater than denumerator %d ",numerator,denumerator));
-        }
+
 
         this.numerator = numerator;
         this.denumerator = denumerator;
         this.timeSignature = numerator +"\\" + denumerator;
         tsLogger.info(String.format("New timeSignature is constructed : %s ", timeSignature));
+    }
+    public void generate()
+    {
+        denumerator = rand.nextInt(denominators.length-1);
+        numerator = rand.nextInt(32)+1;
+        timeSignature = numerator + "/" + denominators[denumerator];
+        tsLogger.info(String.format("New timeSignature is constructed : %s ", timeSignature));;
+
+
     }
     @Override
     public String toString()
